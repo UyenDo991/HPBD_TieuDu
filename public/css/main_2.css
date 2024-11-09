@@ -93,7 +93,7 @@
 }
 .text-4{
   opacity: 0;
-  top: 45%;
+  top: 44%;
   animation-delay: 12s;
   animation: showtext 4s linear forwards;
 }
@@ -136,7 +136,7 @@
 .btn-click{
   z-index: 9;
   position: absolute;
-  top: 75%;
+  top: 80%;
   left: 48%;
   background: rgb(255, 224, 224);
   font-weight: bold;
